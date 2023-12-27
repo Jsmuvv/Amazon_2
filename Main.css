@@ -1,0 +1,85 @@
+.container{
+    display:flex;
+    justify-content: center;
+    border-style: solid;
+    border-color: lightgrey;
+    margin:auto 700px;
+    padding-left: 20px;
+    flex-direction: column;
+    margin-top: 350px;
+    position: static;
+
+
+}
+
+h4{
+    border-style: solid;
+    border-color: lightgrey;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    margin-left: 25px;
+    display: inline;
+    color: lightgrey;
+}
+
+h5{
+    border-style: solid;
+    border-color: lightgrey;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    margin-left: 25px;
+    color: lightgrey;
+}
+
+button{
+    justify-content: center;
+    background-color:orange;
+    border-width: 50px;
+    border-top: 50px;
+
+
+}
+footer{
+    border-style: solid;
+    border-bottom: 5px;
+    border-color: lightgrey;
+    border-width: 2px;
+    margin-top: 400px;
+
+}
+
+
+.word {
+    display:flex;
+    flex-direction: row;
+    justify-content: center;
+    justify-content: space-evenly;
+    list-style-type: none;
+}
+
+.butt {
+    display: flex;
+    margin-top: 50px;
+    margin-left: 725px;
+    width: 200px;
+    height: 100px;
+    padding-left: 350px;
+    padding-right: 350px;
+    background-color: lightgrey;
+}
+
+.password {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+
+h6 {
+    display:flex;
+    justify-content: center;
+    margin-top: 50px;
+}
+
+.help {
+    margin:auto 50px;
+}
